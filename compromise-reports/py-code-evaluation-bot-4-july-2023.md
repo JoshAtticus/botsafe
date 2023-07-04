@@ -1,5 +1,7 @@
 # Security Compromise Report: “py” Code evaluation Meower Bot
 
+### 656 Words | About 2 minutes to read
+
 ## Description of Events
 
 - Derpygamer2142 created a bot, named "py," for the Meower social media platform. The bot was capable of evaluating Python code.
