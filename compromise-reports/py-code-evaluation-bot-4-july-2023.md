@@ -28,7 +28,7 @@
 
 - Unrestricted Internet Access: Granting the bot unrestricted internet access is a poor security practice. Limiting the bot's network access to only necessary and trusted resources reduces the attack surface and potential impact in case of any compromised connections.
 
-Future Considerations
+## Future Considerations
 - Secure Hosting Environment: Moving forward, it is recommended to host the bot in a secure environment specifically designed for running user-generated code. Dedicated platforms, cloud services, or sandboxed execution environments, like Replit, can provide the necessary infrastructure to minimize security risks.
 
 - Continuous Monitoring: Implementing robust monitoring mechanisms is vital to promptly detect and respond to any security incidents or unusual activities related to the bot. Monitoring the bot's behavior, network traffic, and system logs can help identify potential threats and take appropriate actions.
