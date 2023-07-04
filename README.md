@@ -9,4 +9,4 @@ Developing a bot?
 
 Want to learn more about a security compromise?
 
-[Learn more](getstarted.md)
+[Get Started](getstarted.md)
