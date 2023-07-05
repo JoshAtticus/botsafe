@@ -1,6 +1,6 @@
 # Security Compromise Report: “py” Code evaluation Meower Bot
 
-### 656 Words | About 2 minutes to read
+### 656 Words | About 2 minutes to read | Updated 5 July 2023
 
 ## Description of Events
 
@@ -15,6 +15,8 @@
 - Unrestricted Internet Access: Providing the bot with unrestricted internet access further increased the vulnerability. It allowed the bot to interact with external servers, potentially exposing derpygamer2142's system to security threats.
 
 ## Mitigation Measures
+- Don't make a code evaluation bot: Bots like these are risky, as the user can run any code they want if the bot does not have proper security features. For code evaluation, users are better off running the code on their own system, or if not possible, using a third-party service such as Replit or GitHub Codespaces.
+
 - Sandboxing: To mitigate the risks associated with running the bot, it is crucial to implement proper sandboxing techniques. Sandboxing would isolate the bot's execution environment from the underlying system, limiting its access and potential impact. Consider utilizing containerization technologies, such as Docker, to create a controlled and isolated environment for the bot.
 
 - Restricted Network Access: The bot should be configured with restricted network access to minimize the potential for unauthorized connections. Implementing firewalls or network policies can limit the bot's ability to establish connections to external servers, reducing the risk of unintended interactions.
